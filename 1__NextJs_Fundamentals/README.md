@@ -46,6 +46,12 @@
 
 ![](serverless_functions.PNG)
 
+7. Why us Next.js so popular?
+
+    - next.js V/S create-react-app
+
+
+
 
     
 
